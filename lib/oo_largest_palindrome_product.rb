@@ -1,6 +1,6 @@
 # Implement your object-oriented solution here!
 class LargestPalindromeProduct
-  attr_reader :answer, :palindrome_1, :palindrome_2
+  attr_accessor :answer, :palindrome_1, :palindrome_2
   
   
   def initialize
