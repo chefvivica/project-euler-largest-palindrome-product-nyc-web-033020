@@ -3,10 +3,7 @@ def largest_palindrome_product
   limit < 1000
   product = 1
   while(limit> 0){
-    
+    limit
   }
 end 
 
-def isPalindrome(num)
-  num.reverse
-end
