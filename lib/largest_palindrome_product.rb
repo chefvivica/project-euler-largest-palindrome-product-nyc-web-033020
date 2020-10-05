@@ -1,9 +1,10 @@
 # Implement your procedural solution here!
 def largest_palindrome_product 
-  limit < 1000
+  a < 1000
+  b < 1000
   product = 1
-  while(limit> 0){
-    limit
+  while(a> 0){
+    limit * limit
   }
 end 
 
