@@ -4,7 +4,11 @@ def largest_palindrome_product
   b < 1000
   product = 1
   while(a> 0){
-    limit * limit
+    product = a * b 
+    if product.reverse() === product
+      print product
+    else 
+      a--
   }
 end 
 
